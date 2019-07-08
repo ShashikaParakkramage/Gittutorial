@@ -1,3 +1,7 @@
-Hello have a good day
-Hello have a good day
- public class Shashika
+public class Shashika
+{
+public class static void main(String args)
+	{
+	System.out.println("Shashika Parakkramage Rajakaruna")
+	}
+}
